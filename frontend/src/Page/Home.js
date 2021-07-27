@@ -4,7 +4,8 @@ import { PhotoCamera } from '@material-ui/icons';
 
 import useStyles from './Styles';
 
-const card = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+function Home() {
+}
 
 
 function Home() {
